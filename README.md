@@ -44,10 +44,14 @@ The chatbot provides predefined responses to common customer queries such as:
 * contact support
 * exit
 
-## Learning Outcomes
+## Skills Demonstrated
 
-* Conditional statements
-* String handling
-* Problem-solving
-* Basic chatbot design
+- C++
+- Object-Oriented Programming (OOP)
+- Classes and Objects
+- Encapsulation
+- Conditional Logic
+- String Processing
+- Problem Solving
+- Git & GitHub
 
