@@ -26,17 +26,15 @@ The chatbot provides predefined responses to common customer queries such as:
 
 ## How to Run
 
-1. Compile the program:
-
-```bash
-g++ chatbot.cpp -o chatbot
-```
-
-2. Run:
-
-```bash
-./chatbot
-```
+1. Open the project in any C++ IDE (Code::Blocks, VS Code, Dev-C++, etc.).
+2. Compile the chatbot.cpp file.
+3. Run the program.
+4. Enter queries such as:
+   - hello
+   - refund
+   - order status
+   - contact support
+   - exit
 
 ## Sample Queries
 
